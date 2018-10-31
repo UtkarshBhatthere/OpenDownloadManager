@@ -1,0 +1,5 @@
+language: python
+
+brach:
+  only:
+    - master
